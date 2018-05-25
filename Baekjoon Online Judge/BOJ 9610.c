@@ -1,0 +1,1 @@
+x,i;q[];main(y){for(gets(&x);~scanf("%d%d",&x,&y)?:printf(i<5?"Q%d: %d ":"AXIS: %2$d",++i,q[i]),i<5;)q[x*y?y>0?x<0:x>0?3:2:4]+=!i;}
